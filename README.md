@@ -6,16 +6,16 @@ This project is a deep learning application that uses the MobileNet architecture
 ## 📂 Dataset Examples
 Here are some sample images from the dataset used to train the model:
 
-![Dataset Examples](images/dataset_exp.png)
+![Dataset Examples](dataset_exp.png)
 
 ## 📊 Model Architecture
 The MobileNet architecture was used for this project. Below is a graphical representation of the training results of model:
 
-![Model Graph](images/model_graph.png)
+![Model Graph](model_graph.png)
 ## 🧪 Model Test Results
 The following metrics showcase the model's performance during testing:
 
-![Model Test Results](images/model_test.png)
+![Model Test Results](model_test.png)
 
 - **Precision**: 93.3%
 - **Recall**: 93.7%
@@ -24,7 +24,7 @@ The following metrics showcase the model's performance during testing:
 ## 🔍 Prediction Example
 Below is an example of the model's prediction on a diseased tomato leaf:
 
-![Prediction Example](images/predict_exp.png)
+![Prediction Example](predict_exp.png)
 
 
 ## 🔗 Links
